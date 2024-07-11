@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Pearl...👋
+
+I'm a self-taught aspiring machine learning engineer from Ghana.
 
 <!--
 **PearlPearl-Pearl/PearlPearl-Pearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
