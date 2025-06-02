@@ -1,6 +1,15 @@
-## Hi there, I'm Pearl...👋
+## Hi there, I'm **Pearl**...👋
 
-...a self-taught AI/ML engineer from Ghana.
+### 🙎‍♀️ About Me
+- 🎓 Currently self studying *ML/AI* (Currently working through the classic ML algorithms)
+- 🎯 Aspiring *ML/AI Engineer* keen on contributing to *research* in AI/ML
+- 📧 Reach me on **pksandoh@gmail.com**
+
+---
+
+### ⚒ Skills
+**Languages:** Python, SQL(PLpgSQL/PostgreSQL)
+**Technologies:** PowerBI, Apache Solr(PySolr), Pandas, sklearn
 
 <!--
 **PearlPearl-Pearl/PearlPearl-Pearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
