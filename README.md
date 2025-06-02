@@ -1,7 +1,7 @@
 ## Hi there, I'm **Pearl**...👋
 
 ### 🙎‍♀️ About Me
-- 🎓 Currently self studying *ML/AI* (Currently working through the classic ML algorithms)
+- 🎓 Currently self studying *AI/ML* (Currently working through the classic ML algorithms)
 - 🎯 Aspiring *ML/AI Engineer* keen on contributing to *research* in AI/ML
 - 📧 Reach me on **pksandoh@gmail.com**
 
