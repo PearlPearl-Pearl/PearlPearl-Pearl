@@ -8,8 +8,8 @@
 ---
 
 ### ⚒ Skills
-**Languages:** Python, SQL(PLpgSQL/PostgreSQL)
-**Technologies:** PowerBI, Apache Solr(PySolr), Pandas, sklearn
+- **Languages:** Python, SQL(PLpgSQL/PostgreSQL)
+- **Technologies:** PowerBI, Apache Solr(PySolr), Pandas, sklearn
 
 <!--
 **PearlPearl-Pearl/PearlPearl-Pearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
