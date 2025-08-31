@@ -8,7 +8,7 @@
 ---
 
 ### ⚒ Skills
-- **Languages:** Python, SQL(PLpgSQL/PostgreSQL)
+- **Languages:** Python, SQL(PLSQL/PostgreSQL)
 - **Technologies:** PowerBI, Apache Solr(PySolr), Pandas, sklearn, LaTeX
 
 <!--
