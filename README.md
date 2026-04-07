@@ -24,7 +24,7 @@ of math and ML is where I live 🏠
 ## 🧠 Background
 - 🎓 MSc Mathematical Sciences (Data Science track) — AIMS Rwanda
 - 🎓 BSc Mathematics & Computer Science — University of Ghana
-- 💼 Former data engineer — built scalable pipelines before I knew what a GNN was 😄
+- 💼 Former data engineer — Cape Wesley Consults. (built scalable pipelines before I knew what a GNN was 😄)
 - 🔬 Undergraduate independent study in Topological Data Analysis — that's where the 
   obsession with structure and geometry started
 
