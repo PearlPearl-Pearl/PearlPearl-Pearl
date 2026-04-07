@@ -21,7 +21,7 @@ I'm actively looking for PhD opportunities in geometric ML, graph learning, and 
 ### 🧠 Background
 - MSc Mathematical Sciences (Data Science track) — AIMS Rwanda
 - BSc Mathematics & Computer Science — University of Ghana
-- Former data engineer — Python, SQL, PySpark, scalable pipelines
+- Former data engineer — Python, SQL, PySpark, PyTorch, scalable pipelines
 
 ---
 
