@@ -1,38 +1,51 @@
-## Hi there, I'm Pearl 👋
+# Hi there, I'm Pearl 👋🏾
 
-I'm a mathematician-turned-data-engineer-turned-ML-researcher 😄 — currently finishing my 
-MSc at AIMS Rwanda, where my thesis focuses on Graph Neural Networks for Combinatorial 
-Optimization. Think: can we teach a neural network to solve NP-hard graph problems? Turns 
-out, yes — if you're clever about the architecture.
+Mathematician → Data Engineer → ML Researcher 🚀 — and yes, that journey made total sense 
+to me even if it sounds chaotic 😂
 
-I'm actively looking for PhD opportunities in geometric ML, graph learning, and related areas.
+I'm currently finishing my MSc at AIMS Rwanda, where my thesis is all about teaching neural 
+networks to solve NP-hard graph problems. Turns out if you're clever about the architecture, 
+you can get pretty far! 🧠📊
 
----
-
-### 🔭 What I'm working on
-- **Master's Thesis** — Reproducing and extending GCON (Wenkel et al.), a hybrid-filter GNN 
-  architecture for problems like Max Cut, Max Clique, and Minimum Dominating Set
-- Exploring how isolated nodes and disconnected graphs affect GNN architectures (a gap I 
-  noticed in the literature 👀)
-- PhD applications — geometry + ML is the dream
+Actively hunting for PhD opportunities in geometric ML and graph learning — the intersection 
+of math and ML is where I live 🏠
 
 ---
 
-### 🧠 Background
-- MSc Mathematical Sciences (Data Science track) — AIMS Rwanda
-- BSc Mathematics & Computer Science — University of Ghana
-- Former data engineer — Python, SQL, PySpark, PyTorch, scalable pipelines
+## 🔭 What I'm working on
+- 📝 **Master's Thesis** — Reproducing and extending GCON (Wenkel et al.), a hybrid-filter 
+  GNN architecture for Max Cut, Max Clique, and Minimum Dominating Set
+- 🔍 Poking holes in the literature — like what actually happens to these architectures with 
+  isolated nodes? Nobody talks about it. I noticed. 👀
+- 📮 PhD applications — geometry + ML is the dream and I'm going for it
 
 ---
 
-### ⚒ Skills
+## 🧠 Background
+- 🎓 MSc Mathematical Sciences (Data Science track) — AIMS Rwanda
+- 🎓 BSc Mathematics & Computer Science — University of Ghana
+- 💼 Former data engineer — built scalable pipelines before I knew what a GNN was 😄
+- 🔬 Undergraduate independent study in Topological Data Analysis — that's where the 
+  obsession with structure and geometry started
+
+---
+
+## ⚒ Skills
 - **Languages:** Python, SQL (PostgreSQL/PLSQL), Bash
-- **ML/Data:** PyTorch, PyTorch Geometric, Pandas, Scikit-learn, PySpark
+- **ML/Data:** PyTorch, Pandas, Scikit-learn, PySpark
 - **Other:** LaTeX, PowerBI, Apache Solr
 
 ---
 
+## 🎵 When I'm not doing math
+- Choral singer 🎶 — I'm learning to sight-read tonic solfa, yes it's a whole thing
+- Writing poetry ✍🏾 — Frost and Henley understood the assignment
+- Thinking about how to teach mathematics back home in Ghana 🇬🇭 — giving back is 
+  always the plan
+
+---
+
 ### 📫 Reach me
-- Email: pksandoh@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/pearl-kuuridong-b247421b0/)
-- [Personal Site](https://pearlpearl-pearl.github.io/)
+- 📧 pksandoh@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/pearl-kuuridong-b247421b0/)
+- 🌐 [Personal Site](https://pearlpearl-pearl.github.io/)
