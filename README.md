@@ -25,7 +25,7 @@ of math and ML is where I live 🏠
 - 🎓 MSc Mathematical Sciences (Data Science track) — AIMS Rwanda
 - 🎓 BSc Mathematics & Computer Science — University of Ghana
 - 💼 Former data engineer — Cape Wesley Consults. (built scalable pipelines before I knew what a GNN was 😄)
-- 🔬 Undergraduate independent study in Topological Data Analysis — that's where the 
+- 🔬 Undergraduate essay in Topological Data Analysis — that's where the 
   obsession with structure and geometry started
 
 ---
@@ -34,14 +34,6 @@ of math and ML is where I live 🏠
 - **Languages:** Python, SQL (PostgreSQL/PLSQL), Bash
 - **ML/Data:** PyTorch, Pandas, Scikit-learn, PySpark
 - **Other:** LaTeX, PowerBI, Apache Solr
-
----
-
-## 🎵 When I'm not doing math
-- Choral singer 🎶 — I'm learning to sight-read tonic solfa, yes it's a whole thing
-- Writing poetry ✍🏾 — Frost and Henley understood the assignment
-- Thinking about how to teach mathematics back home in Ghana 🇬🇭 — giving back is 
-  always the plan
 
 ---
 
