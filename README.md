@@ -67,6 +67,6 @@ learning-augmented optimization.
 
 ## 📫 Reach me
 
-- 📧 pksandoh@gmail.com
+- 📧 pearl.kuuridong@aims.ac.rw
 - 💼 LinkedIn: https://www.linkedin.com/in/pearl-kuuridong-b247421b0/
 - 🌐 Personal Site: https://pearlpearl-pearl.github.io/
