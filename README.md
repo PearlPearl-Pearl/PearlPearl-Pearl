@@ -6,7 +6,7 @@ My work sits at the intersection of mathematics, machine learning, and combinato
 I am interested in understanding how learning-based methods can solve structured problems, 
 especially problems involving graphs and discrete optimization.
 
-I am currently completing my MSc at AIMS Rwanda, where my thesis explores graph neural networks 
+I completed my MSc at AIMS Rwanda, where my thesis explores graph neural networks 
 for solving NP-hard combinatorial optimization problems. My research focuses on combining ideas 
 from graph theory, optimization, and machine learning to build models that can reason about complex structures.
 
